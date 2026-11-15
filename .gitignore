@@ -49,3 +49,5 @@ data/
 # Local analysis outputs
 analysis/
 images/
+# Local runtime config (copy config.example.yaml)
+config.yaml

@@ -1,4 +1,6 @@
-# Director
+# F1 Director
+
+![License: MIT](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)
 
 Automation daemon for MultiViewer for F1 that dynamically rotates onboard camera windows during live races.
 
@@ -13,7 +15,7 @@ Automation daemon for MultiViewer for F1 that dynamically rotates onboard camera
 ### 1. Install
 
 ```bash
-cd RaceDirector
+cd f1director
 pip install -e .
 ```
 
